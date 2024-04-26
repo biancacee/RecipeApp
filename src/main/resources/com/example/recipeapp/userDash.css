@@ -1,0 +1,22 @@
+.side_anchor{
+    -fx-border-width: 1px;
+    -fx-border-style: solid;
+    -fx-background-color:#7B68EE;
+}
+.anchor_pane{
+    -fx-border-radius:20px;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-background-radius:20px;
+    -fx-border-style: solid;
+    -fx-border-color:#D3D3D3;
+    -fx-background-color:#D3D3D3;
+}
+.anchor_Bttn{
+    -fx-border-radius:20px;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-background-radius:20px;
+    -fx-border-style: solid;
+    -fx-border-color:#000000;
+    -fx-background-color:#000000;
+    -fx-button-style: bold;
+}
